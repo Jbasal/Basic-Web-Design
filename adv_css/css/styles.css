@@ -16,10 +16,15 @@ body {
 #col1 {
     width: 50%;
     border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
 }
 #col2 {
     width: 50%;
     border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
 }
 
 .heading_style {
@@ -58,7 +63,7 @@ nav li a {
     font-size: 24px;
     font-weight: bold;
     text-decoration: none;
-    margin: o 20px;
+    margin: 0 20px;
     width: 125px;
     height: 40px;
     line-height: 40px;
@@ -68,7 +73,7 @@ nav a:hover {
     background-color: rgb(199, 69, 156);
     color: black;
 }
-main {
+#two_col {
     display: flex;
 }
 
